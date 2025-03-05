@@ -1,4 +1,3 @@
-```bash
 #!/bin/bash
 
 # Farben für bessere Optik
@@ -278,4 +277,3 @@ U |  _\"\ u \| ___\"|/ U | __\")u     /"_ \/     \/"_ \/  |_ \" _|
  (__)  (__) (__) (__) (__) (__)      (__)        (__)   (__) (__) ${NC}"
 echo -e "${RED}########################################################################${NC}"
 echo -e "${GREEN}Setup abgeschlossen! Starte neu mit 'reboot', um SDDM und i3 zu nutzen.${NC}"
-```
